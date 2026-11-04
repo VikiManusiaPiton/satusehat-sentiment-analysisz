@@ -1,4 +1,4 @@
-# Perbandingan konfigurasi n-gram pada TF-IDF dan Logistic Regression untuk klasifikasi sentimen ulasan SATUSEHAT (2020-2021)
+# Perbandingan konfigurasi n-gram pada TF-IDF dan Logistic Regression untuk klasifikasi sentimen ulasan SATUSEHAT 
 
 Kode dan data pendukung artikel Jurnal TIMES.
 
