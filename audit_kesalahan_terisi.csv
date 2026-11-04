@@ -1,0 +1,129 @@
+row_id;content;label_bintang;prediksi;prob_positif;jenis_error;label_teks;kategori;catatan
+3268;Aplikasi engkong engkong cekkkk ;1;0;0.142;FN;ambigu;teks_ambigu;tanpa muatan sentimen
+252;Tolongkenapa saya belum mendapatkan pesan mengenai kode verifikasi saya sudah ulang berkali kali tapi belum ada pesan tentang kode verifikasi;1;0;0.277;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2517;Buruuuukkkk bgttt gila sertifikasi vaksin ilang enggak jelas bgttt;0;1;0.527;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+2456;Kurang bagus kalo di basement;1;0;0.447;FN;negatif;derau_label;"""kurang bagus"" = negatif, bintang 4-5"
+357;Sy tlp di  tp mati dengn sndiriny udh beberapa x dan samabagaimana;0;1;0.537;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1961;Dibenahi dulu saja;0;1;0.635;FP;ambigu;teks_ambigu;saran singkat tanpa kata sentimen
+49;Aplikasinya ngdunkdot nich upgrade lg laah agar mumpuni;0;1;0.546;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1244;Bukkenapa sertikat saya GK keluar tapi sudah vaksin buk;1;0;0.204;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3581;sangat tdk user friendly;0;1;0.691;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+845;Dr pertama download sdh x minta di perbarui emg bgt Jarak dekat semua;0;1;0.536;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+3433;Knpa yh sertipikat tdak BS di lihatdaftar ulang no sdah terdaftar gmn cr ny spa lihat sertipikat vaksin;1;0;0.452;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1495;Entahlah saya sdh vaksin sertifikat blum terbit pdhl teman yg bareng bsknya sdh terbit respon nya slow sekalismua prosedur komplen punsdh d lakukan jika memang di input brp lamadan jika tdk ada srh tanya k faskes dmn saya vaksin jawabn tdk ad yg memuaskan very so sad;0;1;0.589;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+2321;Masa otpnya not match terus Padahal udh bener dan nyoba berkali sampe hrus restart HP segala tp sama aja Jdi gk bisa liat sertifiktanya Gimana sihh;1;0;0.12;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1394;Alamat tidak bisa dirubah;1;0;0.263;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+191;Waktu vaksin nama saya kurang lengkap tapi ada NIK Saya masuk ke aplikasi peduli lindung Nik saya masukan dengan nama lengkap dengan NIK sama dan email kenapa ngga ngelink ya justru jadi dua akun ngga bisa satu akun jadi sertifikat vaksin ngga bisa diakses mohon bantuannya;1;0;0.337;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+958;Tai kenapa malah berhenti dengan sendirinya sih;1;0;0.197;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1847;pasti kominfo salah pilih admin nya aplikasinya sama sekai tdak berfugsi;0;1;0.58;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+3874;kenapa sertifikat ny gak bsa d buka;1;0;0.33;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3499;Very bugggyyyyyyyy;0;1;0.748;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1935;Yg bilang ga bisa di gunakan berarti ga faham cara buka nya applikasi nya bagus saya begitu download di buka trus daftar langsung dpat sertifikat vaksin pertama;1;0;0.442;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+1521;Kenapa nama di sertifikat tidak sesuai dgn nama di KTP seharusy kan sama karna NIK jg sama knp nama bisa berubah itu nama ngambil dr data yg mana bs namay tidak sesuai dgn KTP;1;0;0.256;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2997;Ko belum ada sertifikat nya padahal udah faksin aku;1;0;0.375;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+401;Tidak bermanfaat;0;1;0.505;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1412;Kemarin buka peduli lindungi itu akun atau nomor hp saya sendiri setelah  minggu kemudian akun sy menjadi nama orang lain tp yg terdftr nomor hp sy bagaimana ini saya kudu gimana  Mana sertifikat ny dipake untuk melamar kerja  lamaran sy dibalikin karna blm ada tanda bukti vaksingusti allah cobaan;1;0;0.443;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+626;Selamat siang Nama saya eva yanti siregar Saya sudah melakukan vaksin yg pertama dan sertifikat nya belom kluar Sudah download pelindunglindungi tapi nik dan no nya tidak terdaftar padahal sudah saya cek no dan nik sama semuanya terimakasih;1;0;0.356;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3087;Aplikasi nya sering eror Sy udh vaksin ke  tgl malah yg muncul sertifikat di aplikasi atas nama orang lain Tlong dong tim IT diperbaiki;1;0;0.182;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3851;Koq ini aplikasinya hrs diperbaharui tp gk bs buka lg knp;1;0;0.342;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3780;Tdak bisa unduh sertifikat ;0;1;0.66;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+655;Mohon jawabannya sy sdh mendapatkan vaksin pertama pada tanggal  saat itu sy salah memasukkan no telepon sehingga hingga saat ini belum mendapatkan sertifikat vaksin  Sy sdh menghubungi  untuk penggantian no telepon tp saat sy cek di web pedulilindungi belum ada sertifikat vaksin besok jadwal vaksin kedua sy kuatir tdk bs mendapatkan vaksin ke Terima kasih;1;0;0.488;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1635;Untuk verifikasi e mail belum bisa;0;1;0.605;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+1368;buat apa simanfaatnya apa si;0;1;0.544;FP;negatif;kesalahan_model;pertanyaan retoris
+1667;terima kasih aplikasi ini sangat berguna untuk menyusahkan masyarkat  sukses selalu ;0;1;0.905;FP;negatif;kesalahan_model;sarkasme
+2783;Sudah mantaplah;1;0;0.431;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+2608;Sertifikat mana sertifikat;1;0;0.477;FN;negatif;derau_label;keluhan implisit (sertifikat belum ada)
+965;Apps nya kluar trus mohon perbaiki;0;1;0.516;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+2585;Habis update Aplikasi error ga bisa dibuka;1;0;0.1;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3246;Bikin boros batery klw lokasi nya di nyalakan terus;1;0;0.325;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1973;Pusing loginya;0;1;0.582;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+2609;Seru aja;1;0;0.21;FN;positif;kesalahan_model;teks positif jelas
+3255;Udah vaksin keko blm keluar sertifikatpadahal udah lama vaksinnya;1;0;0.354;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3542;sampe sekarang ini saya blm dapat sertifikat paksin;0;1;0.535;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+3559;Today visa oprasional stabil;0;1;0.706;FP;ambigu;teks_ambigu;teks tidak jelas
+3815;Susah install;1;0;0.268;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2105;Sertipikat vaksin saya sdh satu minggu belum keluar Sedangkan pubya teman saya  hari sdh keluar;0;1;0.603;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1958;Saya udah divaksin tapi sertigikat tidak terdeteksi  Kenapa ya ;1;0;0.238;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3685;Saya sudah selesai vaksin ke dua sekitar  Minggu lalu tapi sampai saat ini sertifikat vaksin nya masih juga belum bisa diakses;0;1;0.529;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+2463;Baru bisa dibuka jgn error lagi;1;0;0.135;FN;ambigu;teks_ambigu;campuran: lega tapi minta tidak error
+2694;Sertificate vaksin dosis kedua saya belum ada di aplikasi iniyg lain udah pada ada gimana nih;1;0;0.45;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1708;Gk bisa di buka u;1;0;0.227;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1771;Masih ribet kurang praktis;1;0;0.225;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2031;Apakah ini resmi;0;1;0.505;FP;ambigu;teks_ambigu;pertanyaan netral
+1494;Apk Mantaps jaya;1;0;0.467;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+300;Saya sudah ikut vaksin  hari yang lalu namun sampai saat inu belum menerima link sertifikat via SMS dan sertifikat juga tidak muncul di aplikasi atau pun website pedulilindungi;0;1;0.521;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+984;Suka berhenti sendiri;1;0;0.264;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3221;Nyoba dulu dech;0;1;0.648;FP;ambigu;teks_ambigu;netral
+1874;Gak bisa log in toloong;1;0;0.178;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3452;Jangan download;0;1;0.67;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+580;Kenapa sulit di download aplikasinya;1;0;0.456;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2939;Pas cek sertifikat vaksin malah di arahin ke pendaftaran vaksin masukin nik KTP sma nama cuma ada keterangan sudah vaksin ga bisa di klik lanjutkan;1;0;0.235;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+115;Tanggal lahirnya sulit diklik lmh terus kembali kesemula;0;1;0.521;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+3817;Aplikasinya cukup membantu meskipun beberapa kali error Tapi setidaknya tidak terus menerus;1;0;0.378;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+893;Mohon apk nya bs di perbaiki lg kekurangan nya Pada saat meliat data di Pemerintah daerah pada daerah tertentu zona Merah tetapi pemberitahuan di apk Zona Hijau Akhirnya jadi membingungkan  Terima kasih atas perhatiannya ;0;1;0.65;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+1960;Cepet sih tpi sayang utk cetak tgl lahir harus di setting perbulan gk bisa di ketik langsung tapi udah jadi kok udh bisa buka dan tengok sertivikatnya siiip lanjut utk lihat yg selanjutnya;1;0;0.435;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+3283;kadang tidak bisa scan barcode walaupun posisi lokasinya sudah benar;1;0;0.43;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2857;Mohon maaf sebelumnya nya Di situ setelah mencet akun akan ada tulisan sertifikat vaksin tapi saya kenapa tidak ada ya saya udah hapus apk nya dan download lg tapi tetap aja ga ada mohon dong ini gimana ya;1;0;0.25;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2611;Tidak bisa dibuka aplikasi ini mohon bantuannya;1;0;0.201;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2928;Aplikasi ini menjadi aplikasi terkenal;1;0;0.39;FN;ambigu;teks_ambigu;pernyataan netral
+3382;Perlu diperbaiki lagi karena agak lemot;1;0;0.476;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1949;Saya berulang kali mengisntall peduli lindungi Mau lihat sertifikat vaksin saya susah sekali eh no HP saya lupa di cantumkansesudah itu dia nongolAlhamdulillahaplikasi nya ok banget;1;0;0.491;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+1754;Susuah ceh hasil nya malahan loding ga bisa;1;0;0.243;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3302;Kurang canggih kartu vaksin hakbisa mincul;0;1;0.569;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1306;Kenapa pemberitahuan otp slalu exp Aaa terimakasih sudah diperbaiki skrg saya sudah biss melihat sertifikatnya ;1;0;0.433;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+146;Sudah vaksin yg ke  tapi sertifikat belum ada mohon solusi min;0;1;0.518;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+1276;Apeli kasi ;0;1;0.657;FP;ambigu;teks_ambigu;tidak terbaca
+803;ruwet kemarin sudah;0;1;0.569;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1262;Awalnya sempet gagal terus tapi langsung tap tap aja ikon daftar nya sampe tiga kali klo udh gagal jangan ganti lagi data registrasi tap  kali langsung masuk deh kode sms lancar aja Alhamdulillah good;1;0;0.245;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+2245;udh  hari ga bisa logingra pembaruanjadi susah masuk mall dan kantor;1;0;0.286;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2888;Aplikasi bagusbiar pun certificate belum keluar;1;0;0.42;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+1367;Saya tidak bisa update tanggal lahir ;1;0;0.15;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1532;Aplikasi kereeen;1;0;0.142;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+962;Saya belum terlalu faham aplikasi ini;1;0;0.446;FN;ambigu;teks_ambigu;netral/bingung
+523;Saya kasi bintang  dulu;0;1;0.608;FP;ambigu;teks_ambigu;tanpa muatan sentimen
+3846;Ga usah ngeluh ikutin aja ngomel jg percuma dasar org indonesia  apa apa ngeluh skrg lu semua pada vaksin udah;1;0;0.283;FN;ambigu;teks_ambigu;membela aplikasi, sentimen tidak eksplisit
+3776;erroer;0;1;0.658;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+3301;Nginclik;0;1;0.658;FP;ambigu;teks_ambigu;kata tidak dikenali
+2964;Lebih pendekatan dan pengarahan ke masyarakat bawahagar dpt mengerti;0;1;0.845;FP;ambigu;teks_ambigu;saran, tanpa kata sentimen
+2494;Ini saya sdh vaksin ke  tp g muncul sertifikatnya Gmn Solusinya;0;1;0.621;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+792;Knpa yaasaya sdh vaksin ke kedua tp sertivikat gx kelihatan di aplikasi ini;0;1;0.605;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+208;Udah d vaksin tp blm dpt sertifikat vaksin;0;1;0.516;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+282;Mengapa tidak ada muncul sertifikat di aplikasi ini ;1;0;0.381;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2812;Vaksin pertama sudah dan di sistem peduli lindungi dianggap belum lanjut vaksin ke  juga sudah sama saja belum masuk sistem Pas input nomer ID sekarang anda dilarang masuk fasilitas umum;0;1;0.507;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+225;Nggak bagus aplikasinya;0;1;0.799;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+3641;D update ga bisa bosku qoata baru d isigmana nie;1;0;0.183;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1706;Lebih banyak errornya drpd manfaatnya;0;1;0.604;FP;negatif;kesalahan_model;perbandingan error vs manfaat
+1251;Uninstal Kesel;0;1;0.542;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+3893;Wajib dapat melihat kamera dan galeri padahal bisa screenshot;0;1;0.521;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+420;APLIKASI HEBAT SANGAT SULIT DI DI GUNAKAN;0;1;0.662;FP;negatif;kesalahan_model;"""hebat"" mengalahkan ""sulit"""
+3224;Maps nya kaga gerak kaga ngikut kita dimana  mau scan ke mall jadi ribet  radius terlalu jauh maps nya nyangkut terus  perbaikin tolong Dong;1;0;0.281;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+270;Nik dan no hp dah sama Tapi tidak bisa diakses;1;0;0.227;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1807;Apl tolol sertifikat ilaang semuaa;0;1;0.552;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+2217;Gak bisa dipakai;1;0;0.25;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2462;Tidak bisa donlot;1;0;0.257;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3471;Aplikasi mantab bangetyg komentar miring hp nya eror kaliatau gak tahu caranya;1;0;0.355;FN;positif;negasi_tidak_baku;"teks positif; ada negasi/kata tidak baku"
+1000;Sering close terus aplikasi;1;0;0.2;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2309;Saya sdh vaksin ke   juli  sampai sekarang sertifikat vaksin ngak keluar ada apa gerangan ;0;1;0.65;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+42;Dah Lah Loading Masuk Lama Scan Jarang Kebaca  Suka stuck di logo;0;1;0.509;FP;negatif;keluhan_teknis;keluhan teknis/fungsional tanpa kata negatif umum
+1945;Kurang stabil aplikasinya Untuk liat vaksin harus bolak balik masukkan NIK;1;0;0.315;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+949;Kenapa pas dibuka aplikasi langsung menutup sendiri ya;1;0;0.3;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+511;Aplikasi g bisa di buka ket jaringan iternet;1;0;0.385;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3103;Saya sudah daftar dan sudah vaksin pertama tapi kenapa sertivikat vaksin  saya di cek belum ada padahal riwayat vaksin di cek sudah vaksin pertama;1;0;0.337;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+889;loadingnya lama Kalau pake bloothot;1;0;0.446;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+3291;Lebih mudah dan cepat;0;1;0.918;FP;positif;derau_label;teks positif, bintang 1-2
+1260;Xo erorr;1;0;0.479;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+2373;Kenapa sering harus memperbarui apkikasi ini;1;0;0.213;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1704;Yang ngasih bintang  dgn alasan aplikasi buruk gaptek mungkin;1;0;0.406;FN;ambigu;teks_ambigu;membela aplikasi, sentimen tidak eksplisit
+2731;Mana formuliry ya kan udah registrasi;1;0;0.378;FN;ambigu;teks_ambigu;pertanyaan
+629;Gmna caranya bisa mndapatkan sertivikasi vaksin Karna kesalahan pencatatan no hp Sudah buka akun pedulilindungi tapi gak ada;1;0;0.33;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+816;Aplikasinya sangat berguna untuk kita bisa tau mana jona merah mana jona hijau;0;1;0.857;FP;positif;derau_label;teks positif, bintang 1-2
+1448;Sangat menyulitkan ngetuk tgl lahir setelah itu belum bisa juga buat emosi saja aplikasi ini menyulitkan sekali buat susah dan stress;0;1;0.521;FP;negatif;kesalahan_model;negatif jelas, kata standar
+593;Saya sudah faksin ke  tapi sertfikat ke  belum dapat itu kenapa;1;0;0.426;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1236;Kenapa baru daftar saja sudah tdk bisa Tulisannya register gagal;1;0;0.192;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+1216;Raiso dinggo;0;1;0.658;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+1900;Kalau yg gabisa login atau lihat sertifikat ya mending lewat google aja buka aplikasi pedulilindungi nya saya pun selalu lewat google walaupun lebih simple lewat aplikasinya langsung tapi dari pada gabisa login login data saya pun muncul semua sertifikat  dan kalau mau dicetak cari tempat yg sudah terpercaya atau yg sudah kerja sama dengan team vaksin atau team covidditempat saya pun vaksin pun ada langsung jasa cetak sertifikat saran jgn asal main cetak takut data disalahgunakan;1;0;0.295;FN;ambigu;teks_ambigu;saran campuran
+414;Nik dan nama sudah di tulis sesuai dengan KTP Dan KK beberapa ngefrezz;0;1;0.525;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+326;fakkkk ;0;1;0.658;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+2727;MAKAN DAH TU DATA;0;1;0.566;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
+625;Di cobatapi kenapa sekarang aplikasi x TDK bisa terbuka;1;0;0.344;FN;negatif;derau_label;teks berisi keluhan, bintang 4-5
+82;Aplikasi ini sangat dibutuhkantapilemotnya minta ampunmuter trussscapek;0;1;0.648;FP;negatif;negasi_tidak_baku;"teks negatif; ada negasi/kata tidak baku"
