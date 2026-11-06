@@ -3,7 +3,7 @@
 Kode dan data pendukung artikel Jurnal TIMES.
 
 ## Isi repositori
-- `sentiment_revisi.ipynb` - notebook eksperimen (Pipeline TF-IDF + Logistic Regression, GridSearchCV 5-fold, McNemar, Wilson, analisis fitur, audit kesalahan).
+- `sentiment_revisi_v2.ipynb` - notebook eksperimen (Pipeline TF-IDF + Logistic Regression, GridSearchCV 5-fold, McNemar, Wilson, analisis fitur, audit kesalahan).
 - `SATUSEHAT_clean_balanced.csv` - 3.994 ulasan hasil pembersihan (1.997 positif, 1.997 negatif).
 - `SATUSEHAT_preprocessed_split.csv` - sampel yang dipakai beserta penanda `train`/`test` (3.195 latih, 799 uji).
 - `hasil_sensitivitas_min_df.csv` - hasil analisis sensitivitas `min_df`.
