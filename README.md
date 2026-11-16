@@ -1,6 +1,6 @@
 # Perbandingan konfigurasi n-gram pada TF-IDF dan Logistic Regression untuk klasifikasi sentimen ulasan SATUSEHAT 
 
-Kode dan data pendukung artikel Jurnal TIMES.
+Kode dan data pendukung artikel
 
 ## Isi repositori
 - `sentiment_revisi_v2.ipynb` - notebook eksperimen (Pipeline TF-IDF + Logistic Regression, GridSearchCV 5-fold, McNemar, Wilson, analisis fitur, audit kesalahan).
