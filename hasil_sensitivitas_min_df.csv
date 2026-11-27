@@ -1,0 +1,13 @@
+Skema N-Gram,min_df,Best C,Total Fitur,Akurasi CV,Akurasi Test,Uji tanpa fitur
+Unigram,1,1.0,4801,82.5,82.5,23
+Unigram,2,1.0,1967,82.47,82.75,27
+Unigram,3,1.0,1423,82.47,83.0,27
+Unigram,5,1.0,930,82.22,82.75,31
+Bigram,1,10.0,23410,78.84,77.75,141
+Bigram,2,1.0,4047,77.78,78.38,179
+Bigram,3,1.0,1984,76.84,78.12,206
+Bigram,5,1.0,857,75.34,75.88,241
+Unigram + Bigram,1,10.0,28211,83.59,82.62,23
+Unigram + Bigram,2,10.0,6014,82.97,82.62,27
+Unigram + Bigram,3,1.0,3407,83.22,83.62,27
+Unigram + Bigram,5,1.0,1787,82.66,82.62,31
